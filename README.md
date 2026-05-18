@@ -10,7 +10,7 @@ I lead AI and product strategy teams at [Globant](https://www.globant.com/), whe
 - 🤖 building my own AI agents end-to-end (Slade, Maya, Aelin: details below)
 - ✍️ writing [The Human Stack](https://irnasayeed.substack.com) on why the human layer outlasts the tech
 - 📸 on [Instagram](https://www.instagram.com/irnasayeed/) and [LinkedIn](https://www.linkedin.com/in/irnasayeed/) about navigating careers in AI
-- 🚀 quietly building toward a couple of AI-native businesses I'm launching this year
+- 🚀 quietly building toward a couple of AI-native businesses ideas
 - 🎨 treating 2026 as an open lab: learning out loud and seeing what wants to become real
 - 🛂 wrote the [O-1 Visa Guide](https://irna.bio) that's helped 500+ people navigate the process
 
