@@ -1,26 +1,19 @@
 # hi, I'm Irna 👋
-I lead AI and product strategy teams at [Globant](https://www.globant.com/), where I get to work with cool clients like Disney, Okta, Apollo, AWS, and FIFA. O-1 visa, based in San Francisco.
 
-## for my 9 to 5
-- 🏗️ shipping AI and product moonshots for Fortune 500s and startups ($700M+ funded so far)
-- 📊 turning ambiguous AI bets into business cases that actually get board approval
-- 🧠 building structure and clarity across 25+ person cross-functional teams — from strategy to shipped
+This is where I keep the things I’m building and figuring out with AI.
 
-## for my 5 to 9
-- 🤖 building my own AI agents end-to-end (Slade, Maya, Aelin: details below)
-- ✍️ writing [The Human Stack](https://irnasayeed.substack.com) on why the human layer outlasts the tech
-- 📸 on [Instagram](https://www.instagram.com/irnasayeed/) and [LinkedIn](https://www.linkedin.com/in/irnasayeed/) about navigating careers in AI
-- 🚀 quietly building toward a couple of AI-native businesses ideas
-- 🎨 treating 2026 as an open lab: learning out loud and seeing what wants to become real
-- 🛂 wrote the [O-1 Visa Guide](https://irna.bio) that's helped 500+ people navigate the process
+## right now
 
-## the agents
-- **Slade**: life agent on python + modal, sharp/soft voice with a sentiment classifier
-- **Maya**: household agent on python + railway, durable sqlite memory
-- **Aelin**: book best friend on node + notion, 370 lines, one file
+**Aelin** is a private book companion on Telegram. She remembers what I’m reading, learns from my reactions, helps me choose what to read next, and makes a monthly reading recap. The bot and reading data stay private; the [landing page and waitlist code are public](https://github.com/irna-sayeed/aelin-waitlist).
 
-custom-built on the Anthropic Messages API. happy to talk shop.
+**Sticker Friends** is a picture-first sticker-play experiment for children. I’m working on the onboarding, touch interactions, saved scenes, and returning-player experience. It does not have a public GitHub repository yet.
 
-## say hi
+## current focus
 
-📧 irna@irnasayeed.com
+- making Aelin’s recommendations and proactive messages more useful
+- adding tests and clearer documentation
+- getting Sticker Friends ready for a clean public repository
+
+These projects are built with AI coding tools and keep changing as I use them and learn what works.
+
+[Writing](https://irnasayeed.substack.com) · [LinkedIn](https://www.linkedin.com/in/irnasayeed/) · [More about me](https://irna.bio/)
